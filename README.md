@@ -5,7 +5,7 @@
 
 # My pet projects
 
-## Mental arithmetic
+### Mental arithmetic
 
 https://play.google.com/store/apps/details?id=com.boringcubic.verbalcounting
 
