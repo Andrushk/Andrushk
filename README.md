@@ -5,7 +5,7 @@
 
 # My pet projects
 
-### Mental arithmetic
+> ### Mental arithmetic
 > Dynamic math workout. Master the basics of arithmetic.
 
 Google Play: https://play.google.com/store/apps/details?id=com.boringcubic.verbalcounting
@@ -17,7 +17,7 @@ Huawei AppGallery: https://appgallery.huawei.com/#/app/C107970315
 Web: https://boring-cubic-verbal-counting.web.app
 
 
-### Choice
+> ### Choice
 > Simple way to make a difficult decision or make a choice
 
 Google Play: https://play.google.com/store/apps/details?id=com.paplpi1112.decider
