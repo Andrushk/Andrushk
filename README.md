@@ -5,7 +5,7 @@
 
 # My pet projects
 
-> #### Mental arithmetic
+> ### Mental arithmetic
 > Dynamic math workout. Master the basics of arithmetic.
 
 Google Play: https://play.google.com/store/apps/details?id=com.boringcubic.verbalcounting
