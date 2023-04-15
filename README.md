@@ -7,11 +7,22 @@
 
 ### Mental arithmetic
 
-https://play.google.com/store/apps/details?id=com.boringcubic.verbalcounting
+Google Play: https://play.google.com/store/apps/details?id=com.boringcubic.verbalcounting
 
-https://apps.rustore.ru/app/com.boringcubic.verbalcounting
+RuStore: https://apps.rustore.ru/app/com.boringcubic.verbalcounting
 
-https://appgallery.huawei.com/#/app/C107970315
+Huawei AppGallery: https://appgallery.huawei.com/#/app/C107970315
+
+Web: https://boring-cubic-verbal-counting.web.app
+
+
+### Choice
+
+Google Play: https://play.google.com/store/apps/details?id=com.paplpi1112.decider
+
+RuStore: https://apps.rustore.ru/app/com.paplpi1112.decider
+
+Huawei AppGallery: https://appgallery.huawei.com/#/app/C107656351
 
 <!---
 Andrushk/Andrushk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
