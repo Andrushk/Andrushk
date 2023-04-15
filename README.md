@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andrushk
+- 👋 Hi, I’m Andrey
 - 👀 I’m interested in: C#, Dart, ASP.NET, WPF, Flutter
 - 📫 How to reach me: Andrushk_nn@mail.ru or t.me/pivpav_nn
 
@@ -6,7 +6,7 @@
 # My pet projects
 
 ### Mental arithmetic
-Dynamic math workout. Master the basics of arithmetic.
+> Dynamic math workout. Master the basics of arithmetic.
 
 Google Play: https://play.google.com/store/apps/details?id=com.boringcubic.verbalcounting
 
@@ -18,7 +18,7 @@ Web: https://boring-cubic-verbal-counting.web.app
 
 
 ### Choice
-Simple way to make a difficult decision or make a choice
+> Simple way to make a difficult decision or make a choice
 
 Google Play: https://play.google.com/store/apps/details?id=com.paplpi1112.decider
 
