@@ -3,9 +3,9 @@
 - 📫 How to reach me: Andrushk_nn@mail.ru or t.me/pivpav_nn
 
 
-My pet projects:
+# My pet projects
 
-# Mental arithmetic
+## Mental arithmetic
 
 https://play.google.com/store/apps/details?id=com.boringcubic.verbalcounting
 
