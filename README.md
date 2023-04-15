@@ -5,9 +5,12 @@
 
 My pet projects:
 
-* Mental arithmetic *
+# Mental arithmetic
+
 https://play.google.com/store/apps/details?id=com.boringcubic.verbalcounting
+
 https://apps.rustore.ru/app/com.boringcubic.verbalcounting
+
 https://appgallery.huawei.com/#/app/C107970315
 
 <!---
