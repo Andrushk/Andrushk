@@ -16,7 +16,7 @@ Huawei AppGallery: https://appgallery.huawei.com/#/app/C107970315
 
 Web: https://boring-cubic-verbal-counting.web.app
 
-###
+
 
 ### Choice
 > Simple way to make a difficult decision or make a choice
